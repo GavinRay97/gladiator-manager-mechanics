@@ -52,150 +52,150 @@ https://play.google.com/store/apps/details?id=com.rene.gladiatormanager&hl=en_US
 
 ### Complete Trait Table
 
-| Trait Name                  | STR | HP  | INI | CUN | LOY | TEC | How to Obtain                                                                                  |
-| :-------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------------------------------------------------------- |
-| **Adventurous**             |  0  |  0  |  0  | +1  |  0  | +1  | Random cunning trait learning                                                                  |
-| **Agile**                   | -1  |  0  | +1  |  0  |  0  |  0  | Random initiative trait learning, Starting trait (Tetraites)                                   |
-| **Albino**                  |  0  |  0  |  0  | +1  |  0  |  0  | Random trait, Beast reincarnation                                                              |
-| **Alert**                   |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
-| **All In**                  | +1  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
-| **Alpha**                   | +1  | +5  |  0  |  0  |  0  |  0  | Random beast trait learning, Beast creation (Bear, Gorilla)                                    |
-| **Ambidextrous**            |  0  |  0  |  0  |  0  |  0  |  0  | Random initiative trait learning, Intense training (3% chance)                                 |
-| **Anemic**                  | -2  |  0  | -1  |  0  |  0  |  0  | Life force drain progression                                                                   |
-| **Animal Instinct**         |  0  |  0  |  0  | +1  |  0  |  0  | Random beast trait learning                                                                    |
-| **Annum Champion**          |  0  | +5  |  0  | +1  |  0  |  0  | League championship reward                                                                     |
-| **Apollo's Blessing**       |  0  |  0  |  0  | +1  | -2  |  0  | Random trait                                                                                   |
-| **Arena Champion**          | +1  |  0  |  0  | +1  |  0  |  0  | Win major tournament (non-underground, 11+ rounds)                                             |
-| **Arrogant**                |  0  |  0  |  0  | +1  | -2  |  0  | Random strength trait learning                                                                 |
-| **Ascended**                | +2  | +5  |  0  |  0  | -2  |  0  | Win Ascension tournament                                                                       |
-| **Assassin**                |  0  |  0  |  0  |  0  |  0  |  0  | Random initiative trait learning                                                               |
-| **Axe Specialist**          |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with axes                                                             |
-| **Axial Momentum**          | +1  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Bacchus Champion**        |  0  |  0  |  0  | +1  |  0  |  0  | League championship reward                                                                     |
-| **Bane of Tigris**          | +2  |  0  |  0  | +1  |  0  |  0  | Win 14+ underground tournaments                                                                |
-| **Beast Tamer**             |  0  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning, Bestiarii training (1% chance), Starting trait (Carpophorus)    |
-| **Best Boy**                | +2  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Bestia Summum**           | +1  | +5  |  0  | +1  |  0  |  0  | Bestiarii training for beasts (15% chance)                                                     |
-| **Bestiarii**               |  0  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning, Bestiarii training (20% chance), Starting trait (Beast Master)  |
-| **Blade Whisperer**         |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Blind**                   |  0  |  0  | -2  |  0  |  0  |  0  | Injury progression, Beast reincarnation                                                        |
-| **Blind Fighter**           |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning                                                               |
-| **Bloodstarved**            | -4  |  0  |  0  |  0  |  0  |  0  | Life force drain progression                                                                   |
-| **Bum Leg**                 | -2  |  0  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
-| **Careful**                 |  0  |  0  | -1  | +1  | +1  |  0  | Random cunning trait learning                                                                  |
-| **Carnivorous**             | +1  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Cataphractoi**            | +2  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Celestial Champion**      | +1  | +5  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Colossus Slayer**         |  0  |  0  |  0  | +1  |  0  |  0  | Win 8+ underground tournaments                                                                 |
-| **Concussion**              |  0  |  0  |  0  | +1  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
-| **Conditioning**            |  0  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Crippled**                | -5  |  0  | -2  |  0  |  0  |  0  | Severe injury recovery (50% chance), Life force drain progression                              |
-| **Dagger Master**           |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: Enhanced dagger damage                                                          |
-| **Dagger Specialist**       |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with daggers                                                          |
-| **Deadeye**                 |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
-| **Deafening Crackle**       | +2  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Demanding Freedom**       |  0  |  0  |  0  | +1  | -8  |  0  | Random cunning trait learning                                                                  |
-| **Devotion**                | +1  |  0  | +1  |  0  | +2  |  0  | Random cunning trait learning                                                                  |
-| **Doctore**                 |  0  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Dual Wield**              |  0  |  0  |  0  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
-| **Enforcer**                | +1  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Eques Slayer**            |  0  |  0  |  0  |  0  |  0  |  0  | Random trait learning                                                                          |
-| **Exotic Fighting Style**   |  0  |  0  |  0  | +1  |  0  | +1  | Random initiative trait learning, Random trait learning                                        |
-| **Explosive Release**       | +1  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Fanatic**                 | +1  | +5  | +1  |  0  | +1  |  0  | Random strength trait learning                                                                 |
-| **Feral Intelligence**      |  0  |  0  |  0  | +1  |  0  |  0  | Random beast trait learning, Beast creation (Gorilla)                                          |
-| **First Blood**             |  0  |  0  |  0  |  0  |  0  |  0  | Win Rookie tournament                                                                          |
-| **Fists of Steel**          | +3  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Force of Nature**         | +1  |  0  |  0  | +1  |  0  | +1  | Random beast trait learning                                                                    |
-| **Freedom**                 |  0  |  0  |  0  | +1  | +2  |  0  | Random trait                                                                                   |
-| **Fury**                    | +2  |  0  |  0  | +1  |  0  |  0  | Random strength trait learning                                                                 |
-| **Giant**                   | +2  | +5  |  0  |  0  |  0  |  0  | Random trait, Beast reincarnation (from Titan)                                                 |
-| **Glory Seeker**            | +1  |  0  |  0  |  0  | +1  |  0  | Random strength trait learning                                                                 |
-| **Good Boy**                |  0  |  0  |  0  | +1  |  0  |  0  | Random trait, Beast reincarnation (from Best Boy)                                              |
-| **Herculean Strength**      | +4  | +10 |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Hero**                    | +1  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Hoplite**                 | +1  |  0  | +1  |  0  |  0  |  0  | Random strength trait learning (with Spartan Dynasty upgrade)                                  |
-| **Horrible Disfigurement**  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Severe injury recovery (50%)                                   |
-| **Hunter**                  |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning                                                               |
-| **Impact**                  | +2  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Indomitable**             | +1  |  0  | +1  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
-| **Inspiring**               |  0  | +5  |  0  | +1  | -1  |  0  | Random initiative trait learning                                                               |
-| **Intangible**              |  0  |  0  | +2  |  0  | -2  |  0  | Random trait                                                                                   |
-| **Jupiter Champion**        | +1  |  0  |  0  | +1  |  0  |  0  | League championship reward                                                                     |
-| **Killer**                  | +1  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Lawbringer**              | +1  |  0  |  0  |  0  |  0  |  0  | Win revolt event (lawful side)                                                                 |
-| **Life Bringer**            |  0  | +5  |  0  | +1  | +1  |  0  | Random trait                                                                                   |
-| **Lightning Speed**         |  0  |  0  |  0  |  0  |  0  |  0  | Random initiative trait learning, Intense training (rare)                                      |
-| **Lord of Cinders**         | +1  | +5  | +1  | +1  |  0  | +1  | Solar Champion + Gwyn legendary type                                                           |
-| **Lost Family**             | +1  |  0  |  0  | +1  | -4  |  0  | Random trait                                                                                   |
-| **Loyal**                   |  0  | +5  |  0  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
-| **Lunar Champion**          |  0  | +5  |  0  |  0  |  0  |  0  | League championship reward                                                                     |
-| **Lycanthropy**             |  0  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Made of Glass**           |  0  | -5  | +4  | +1  |  0  |  0  | Random initiative trait learning                                                               |
-| **Many Heads**              |  0  | +50 |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Marksman**                |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning                                                               |
-| **Master Horseman**         |  0  |  0  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
-| **Missing Fingers**         | -1  |  0  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
-| **Mithridatism**            |  0  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning                                                                  |
-| **Mythical**                |  0  | +5  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **One Man Army**            | +1  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Pankration Champion**     |  0  |  0  | +1  |  0  |  0  |  0  | Win Pankration tournament                                                                      |
-| **Paranoid**                |  0  | -5  | +1  |  0  | -1  |  0  | Random initiative trait learning                                                               |
-| **Partially Blind**         |  0  |  0  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
-| **Piercing Precision**      |  0  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Pit Champion**            |  0  |  0  |  0  | +1  |  0  |  0  | Win 5+ underground tournaments                                                                 |
-| **Pit Fighter**             |  0  |  0  |  0  | +1  |  0  |  0  | Win 2+ underground tournaments                                                                 |
-| **Pit Legend**              | +1  | +10 |  0  | +1  |  0  |  0  | Win 10+ underground tournaments                                                                |
-| **Plotting Uprising**       |  0  |  0  |  0  | +1  | -10 |  0  | Random trait                                                                                   |
-| **Poison Master**           |  0  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
-| **Poisoned Claws**          |  0  |  0  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Preparation**             |  0  |  0  |  0  | +1  | -1  |  0  | Random cunning trait learning, Random trait learning                                           |
-| **Psychopath**              | +1  | +10 |  0  | +1  | -5  |  0  | Random trait                                                                                   |
-| **Pugilist**                | +1  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
-| **Pyromaniac**              |  0  |  0  | +1  | +1  | -2  |  0  | Random cunning trait learning                                                                  |
-| **Quick Study**             |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
-| **Raised in the Arena**     | +2  |  0  | +1  | +1  | +1  |  0  | Win Junior tournament                                                                          |
-| **Rebel General**           | +2  | +20 |  0  | +1  | -8  |  0  | Random trait                                                                                   |
-| **Rebel Leader**            | +1  |  0  |  0  | +1  | -5  |  0  | Random trait                                                                                   |
-| **Rebel Slayer**            | +1  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Recaptured**              |  0  |  0  |  0  | +1  | +2  |  0  | Random trait                                                                                   |
-| **Reincarnated**            | +2  | +5  |  0  |  0  | +1  |  0  | Random trait                                                                                   |
-| **Reincarnated Beast**      | +1  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Reunited With Family**    |  0  |  0  |  0  |  0  | +1  |  0  | Random trait                                                                                   |
-| **Revolt Leader**           | +1  |  0  |  0  | +1  | -4  |  0  | Win revolt event (rebel side)                                                                  |
-| **Rudiarius**               |  0  | +5  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Ruthless**                | +2  |  0  |  0  | +1  | -1  |  0  | Random cunning trait learning                                                                  |
-| **Self Preservation**       | -1  |  0  |  0  | +1  |  0  |  0  | Random beast trait learning                                                                    |
-| **Shadow Blade**            |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Sharpened Claws**         | +1  |  0  |  0  |  0  |  0  |  0  | Random beast trait learning                                                                    |
-| **Showman**                 |  0  |  0  |  0  | +1  |  0  |  0  | Random initiative trait learning                                                               |
-| **Sneaky**                  |  0  |  0  | +1  | +1  | -1  |  0  | Random cunning trait learning, Random trait learning                                           |
-| **Solar Champion**          | +1  |  0  |  0  | +1  |  0  |  0  | League championship reward                                                                     |
-| **Spartan Resolve**         |  0  |  0  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Spear Master**            |  0  |  0  |  0  | +1  |  0  |  0  | Combat effect: Enhanced spear damage                                                           |
-| **Spear Specialist**        |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with spears                                                           |
-| **Strong**                  | +1  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Intense training (50% chance)                                  |
-| **Sudden Death**            |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Survival of the Fittest** |  0  | +5  | +1  |  0  |  0  |  0  | Random beast trait learning, Beast creation (Lion, Elephant)                                   |
-| **Sword Master**            | +1  |  0  |  0  | +1  |  0  |  0  | Random trait                                                                                   |
-| **Sword Specialist**        |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with swords                                                           |
-| **Tactician**               |  0  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
-| **Talented**                |  0  |  0  |  0  |  0  |  0  | +1  | Random initiative trait learning                                                               |
-| **Temperamental**           | +2  |  0  | +1  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Thief**                   |  0  |  0  |  0  | +1  | -2  |  0  | Random initiative trait learning                                                               |
-| **Thick Hide**              |  0  | +5  |  0  |  0  |  0  |  0  | Beast creation (Lion, Elephant, Bear)                                                          |
-| **Titan**                   | +4  | +10 |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Titanic Strength**        | +4  |  0  |  0  |  0  |  0  |  0  | Special condition: Giant/Titan + Sword/Axe proficient + Barbarus/Murmillo/Dimachaerus + 16 STR |
-| **Tomb Raider**             |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
-| **Tough**                   | +1  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **True Grit**               |  0  | +5  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
-| **Underdog**                | -1  |  0  |  0  | +1  |  0  |  0  | Random cunning trait learning                                                                  |
-| **Undeath**                 |  0  |  0  |  0  | +1  | +2  |  0  | Random trait                                                                                   |
-| **Underhanded**             |  0  |  0  |  0  | +1  | -2  |  0  | Random cunning trait learning                                                                  |
-| **Untrustworthy**           |  0  |  0  |  0  | +1  | -1  |  0  | Random cunning trait learning                                                                  |
-| **Veteran**                 | +1  |  0  |  0  | +1  |  0  |  0  | Random strength trait learning                                                                 |
-| **Vulcan Champion**         | +1  |  0  |  0  | +1  |  0  |  0  | League championship reward                                                                     |
-| **World Champion**          | +1  |  0  |  0  | +1  |  0  |  0  | Win Invader tournament                                                                         |
+| Trait Name                  | STR | HP  | INI | CUN | LOY | TEC | INJ | How to Obtain                                                                                  |
+| :-------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------------------------------------------------------- |
+| **Adventurous**             | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Agile**                   | -1  |  0  | +2  |  0  |  0  |  0  |  0  | Random initiative trait learning, Starting trait (Tetraites)                                   |
+| **Albino**                  |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait, Beast reincarnation                                                              |
+| **Alert**                   |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
+| **All In**                  | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
+| **Alpha**                   | +1  | +5  |  0  |  0  |  0  |  0  |  0  | Random beast trait learning, Beast creation (Bear, Gorilla)                                    |
+| **Ambidextrous**            |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning, Intense training (3% chance)                                 |
+| **Anemic**                  | -2  |  0  | -1  |  0  |  0  |  0  | +1  | Life force drain progression                                                                   |
+| **Animal Instinct**         |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random beast trait learning                                                                    |
+| **Annum Champion**          |  0  | +5  | +1  | +1  |  0  |  0  |  0  | League championship reward                                                                     |
+| **Apollo's Blessing**       |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Arena Champion**          | +1  |  0  | +1  | +1  |  0  |  0  |  0  | Win major tournament (non-underground, 11+ rounds)                                             |
+| **Arrogant**                |  0  |  0  | -2  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Ascended**                | +2  |  0  | +2  |  0  |  0  |  0  |  0  | Win Ascension tournament                                                                       |
+| **Assassin**                |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Axe Specialist**          |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with axes                                                             |
+| **Axial Momentum**          | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Bacchus Champion**        |  0  | +5  | -1  |  0  |  0  |  0  |  0  | League championship reward                                                                     |
+| **Bane of Tigris**          | +2  |  0  |  0  |  0  |  0  |  0  |  0  | Win 14+ underground tournaments                                                                |
+| **Beast Tamer**             |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning, Bestiarii training (1% chance), Starting trait (Carpophorus)    |
+| **Best Boy**                | +2  |  0  | +2  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Bestia Summum**           | +1  | +5  | +1  | +1  |  0  |  0  |  0  | Bestiarii training for beasts (15% chance)                                                     |
+| **Bestiarii**               |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning, Bestiarii training (20% chance), Starting trait (Beast Master)  |
+| **Blade Whisperer**         |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Blind**                   |  0  |  0  | -2  |  0  |  0  |  0  |  0  | Injury progression, Beast reincarnation                                                        |
+| **Blind Fighter**           |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Bloodstarved**            | -4  |  0  | -2  |  0  |  0  |  0  | +2  | Life force drain progression                                                                   |
+| **Bum Leg**                 | -2  |  0  | -4  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
+| **Careful**                 |  0  |  0  | -1  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Carnivorous**             | +1  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Cataphractoi**            | +2  |  0  | -1  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Celestial Champion**      | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Colossus Slayer**         |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Win 8+ underground tournaments                                                                 |
+| **Concussion**              |  0  |  0  | -1  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
+| **Conditioning**            |  0  | +5  | +1  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Crippled**                | -5  |  0  | -5  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance), Life force drain progression                              |
+| **Dagger Master**           |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Combat effect: Enhanced dagger damage                                                          |
+| **Dagger Specialist**       |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with daggers                                                          |
+| **Deadeye**                 |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
+| **Deafening Crackle**       | +2  |  0  | +2  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Demanding Freedom**       |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Devotion**                | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Doctore**                 |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Dual Wield**              |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
+| **Enforcer**                | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Eques Slayer**            |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait learning                                                                          |
+| **Exotic Fighting Style**   |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
+| **Explosive Release**       | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Fanatic**                 | +1  | +10 | +1  |  0  |  0  |  0  | +1  | Random strength trait learning                                                                 |
+| **Feral Intelligence**      |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random beast trait learning, Beast creation (Gorilla)                                          |
+| **First Blood**             |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Win Rookie tournament                                                                          |
+| **Fists of Steel**          | +3  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Force of Nature**         | +1  | +5  | +1  | +1  |  0  | +1  |  0  | Random beast trait learning                                                                    |
+| **Freedom**                 |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Fury**                    | +2  | +5  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Giant**                   | +2  | +5  | -2  |  0  |  0  |  0  |  0  | Random trait, Beast reincarnation (from Titan)                                                 |
+| **Glory Seeker**            | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Good Boy**                |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait, Beast reincarnation (from Best Boy)                                              |
+| **Herculean Strength**      | +4  | +10 | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Hero**                    | +1  |  0  | +1  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Hoplite**                 | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning (with Spartan Dynasty upgrade)                                  |
+| **Horrible Disfigurement**  |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Severe injury recovery (50%)                                   |
+| **Hunter**                  |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Impact**                  | +2  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Indomitable**             | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
+| **Inspiring**               |  0  | +5  |  0  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Intangible**              |  0  |  0  | +2  |  0  |  0  |  0  | -2  | Random trait                                                                                   |
+| **Jupiter Champion**        | +1  |  0  | +1  | +1  |  0  |  0  |  0  | League championship reward                                                                     |
+| **Killer**                  | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Lawbringer**              | +1  |  0  | +1  |  0  |  0  |  0  |  0  | Win revolt event (lawful side)                                                                 |
+| **Life Bringer**            |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Lightning Speed**         |  0  |  0  | +2  |  0  |  0  |  0  |  0  | Random initiative trait learning, Intense training (rare)                                      |
+| **Lord of Cinders**         | +1  | +5  | +1  | +1  |  0  | +1  | -1  | Solar Champion + Gwyn legendary type                                                           |
+| **Lost Family**             | +1  |  0  | +1  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Loyal**                   |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Lunar Champion**          |  0  | +5  | +1  |  0  |  0  |  0  |  0  | League championship reward                                                                     |
+| **Lycanthropy**             |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Made of Glass**           |  0  | -5  | +4  |  0  |  0  |  0  | +1  | Random initiative trait learning                                                               |
+| **Many Heads**              |  0  | +50 |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Marksman**                |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Master Horseman**         |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Missing Fingers**         | -1  |  0  | -1  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
+| **Mithridatism**            |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Mythical**                |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **One Man Army**            | +1  | +5  |  0  | +1  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Pankration Champion**     |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Win Pankration tournament                                                                      |
+| **Paranoid**                |  0  | -5  | +1  |  0  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Partially Blind**         |  0  |  0  | -1  |  0  |  0  |  0  |  0  | Severe injury recovery (50% chance)                                                            |
+| **Piercing Precision**      |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Pit Champion**            |  0  | +5  | +1  | +1  |  0  |  0  |  0  | Win 5+ underground tournaments                                                                 |
+| **Pit Fighter**             |  0  | +5  |  0  | +1  |  0  |  0  |  0  | Win 2+ underground tournaments                                                                 |
+| **Pit Legend**              | +1  | +10 | +2  | +1  |  0  |  0  |  0  | Win 10+ underground tournaments                                                                |
+| **Plotting Uprising**       |  0  | +5  |  0  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Poison Master**           |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
+| **Poisoned Claws**          |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Preparation**             |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
+| **Psychopath**              | +1  | +10 | +2  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Pugilist**                | +1  |  0  | +1  |  0  |  0  |  0  |  0  | Random strength trait learning, Random trait learning                                          |
+| **Pyromaniac**              |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Quick Study**             |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random initiative trait learning, Random trait learning                                        |
+| **Raised in the Arena**     | +2  | +5  | +1  | +1  |  0  |  0  |  0  | Win Junior tournament                                                                          |
+| **Rebel General**           | +2  | +20 | +2  | +2  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Rebel Leader**            | +1  | +5  | +1  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Rebel Slayer**            | +1  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Recaptured**              |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Reincarnated**            | +2  |  0  | +2  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Reincarnated Beast**      | +1  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Reunited With Family**    |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Revolt Leader**           | +1  | +5  | +1  | +1  |  0  |  0  |  0  | Win revolt event (rebel side)                                                                  |
+| **Rudiarius**               |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Ruthless**                | +2  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Self Preservation**       | -1  | +5  |  0  |  0  |  0  |  0  |  0  | Random beast trait learning                                                                    |
+| **Shadow Blade**            |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Sharpened Claws**         | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random beast trait learning                                                                    |
+| **Showman**                 |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Sneaky**                  |  0  |  0  | +1  | +1  |  0  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
+| **Solar Champion**          | +1  |  0  |  0  | +1  |  0  |  0  |  0  | League championship reward                                                                     |
+| **Spartan Resolve**         |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Spear Master**            |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Combat effect: Enhanced spear damage                                                           |
+| **Spear Specialist**        |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with spears                                                           |
+| **Strong**                  | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning, Intense training (50% chance)                                  |
+| **Sudden Death**            |  0  |  0  | +1  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Survival of the Fittest** |  0  | +5  | +1  |  0  |  0  |  0  | -1  | Random beast trait learning, Beast creation (Lion, Elephant)                                   |
+| **Sword Master**            | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Sword Specialist**        |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Combat effect: +2 damage with swords                                                           |
+| **Tactician**               |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning, Random trait learning                                           |
+| **Talented**                |  0  |  0  | +1  |  0  |  0  | +1  |  0  | Random initiative trait learning                                                               |
+| **Temperamental**           | +2  |  0  | +1  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Thief**                   |  0  |  0  | +2  | +1  |  0  |  0  |  0  | Random initiative trait learning                                                               |
+| **Thick Hide**              |  0  | +5  |  0  |  0  |  0  |  0  |  0  | Beast creation (Lion, Elephant, Bear)                                                          |
+| **Titan**                   | +4  | +10 | -2  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Titanic Strength**        | +4  |  0  | -2  |  0  |  0  |  0  |  0  | Special condition: Giant/Titan + Sword/Axe proficient + Barbarus/Murmillo/Dimachaerus + 16 STR |
+| **Tomb Raider**             |  0  |  0  |  0  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Tough**                   | +1  | +5  | -2  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **True Grit**               |  0  | +5  |  0  |  0  |  0  |  0  | -1  | Random strength trait learning                                                                 |
+| **Underdog**                | -1  |  0  | +1  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Undeath**                 |  0  |  0  | -2  |  0  |  0  |  0  |  0  | Random trait                                                                                   |
+| **Underhanded**             |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Untrustworthy**           |  0  |  0  |  0  | +1  |  0  |  0  |  0  | Random cunning trait learning                                                                  |
+| **Veteran**                 | +1  |  0  |  0  |  0  |  0  |  0  |  0  | Random strength trait learning                                                                 |
+| **Vulcan Champion**         | +1  | +5  |  0  |  0  |  0  |  0  |  0  | League championship reward                                                                     |
+| **World Champion**          | +1  | +5  | +1  | +1  |  0  |  0  |  0  | Win Invader tournament                                                                         |
 
 ---
 
